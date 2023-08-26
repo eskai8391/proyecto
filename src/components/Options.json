@@ -1,0 +1,47 @@
+{
+  "options": [
+    {
+      "title": "Sistema Binario",
+      "methods": [
+        "Suma",
+        "Resta",
+        "Multiplicación",
+        "División",
+        "Conversión"
+      ]
+    },
+
+    {
+      "title": "Sistema Octal",
+      "methods": [
+        "Suma",
+        "Resta",
+        "Multiplicación",
+        "División",
+        "Conversión"
+      ]
+    },
+
+    {
+      "title": "Sistema Hexadecimal",
+      "methods": [
+        "Suma",
+        "Resta",
+        "Multiplicación",
+        "División",
+        "Conversión"
+      ]
+    },
+
+    {
+      "title": "Matrices",
+      "methods": [
+        "Suma",
+        "Resta",
+        "Multiplicación",
+        "División",
+        "Inversa"
+      ]
+    }
+  ]
+}

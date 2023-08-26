@@ -1,0 +1,24 @@
+@import '../__variables';
+
+.home {
+  text-transform: uppercase;
+  text-align: center;
+
+  display: grid;
+  place-content: center;
+
+  height: 100vh;
+  width: 100vw;
+
+  overflow: hidden;
+  background: $background;
+
+  &__btn {
+    color: $text;
+    text-transform: uppercase;
+
+    padding: 1rem;
+
+    background: $background;
+  }
+}
